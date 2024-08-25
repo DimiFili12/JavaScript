@@ -9,12 +9,12 @@ clothes.push("Hat");
 clothes.pop();
 clothes.push("Hoodie");
 
-console.log(clothes[2]); // This will log "Jacket"
+console.log(clothes[2]);
 
 let favCar = {};
 
 favCar.color = "Red";
 
-favCar.convertible = false; // You can set it to true or false based on your preference
+favCar.convertible = false;
 
 console.log(favCar);
